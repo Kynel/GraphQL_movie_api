@@ -1,1 +1,1 @@
-GraphQL_movie_api
+Simple movie API with GraphQL
